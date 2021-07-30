@@ -9,7 +9,7 @@
 <p align="center"> - Rohman Beny Riyanto           (19104060) </p>
 
 ## Tentang Aplikasi
-Aplikasi ini merupakan pengembangan dari prototype aplikasi Health.i di mobile menjadi bentuk desktop. Kami menggunakan aplikasi karena banyak masyarakat yang masih kesusahan dalam proses registrasi di suatu fasilitas kesehatan. Baik saat ingin menggunakan asuransi hingga proses saat ingin memindahkan kamar atau yang lainnya. Aplikasi ini dapat di jalankan dengan menggunakan python dengan run file main.py
+Aplikasi ini merupakan pengembangan dari prototype aplikasi Health.i di mobile menjadi bentuk desktop. Kami menggunakan aplikasi karena banyak masyarakat yang masih kesusahan dalam proses registrasi di suatu fasilitas kesehatan. Baik saat ingin menggunakan asuransi hingga proses saat ingin memindahkan kamar atau yang lainnya. Aplikasi ini dapat di jalankan dengan menggunakan python dengan run file main.py 
 
 ## Fitur Aplikasi
 Aplikasi ini memiliki fitur seperti
